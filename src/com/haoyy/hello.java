@@ -3,6 +3,7 @@ package com.haoyy;
 import android.app.Activity;
 import android.os.Bundle;
 
+//≤‚ ‘Ã·Ωª
 public class hello extends Activity {
     /** Called when the activity is first created. */
     @Override
