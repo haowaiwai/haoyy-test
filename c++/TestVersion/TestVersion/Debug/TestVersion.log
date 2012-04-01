@@ -1,0 +1,15 @@
+﻿生成启动时间为 2012/4/1 10:22:12。
+     1>项目“D:\我的文档\Visual Studio 2010\Projects\TestVersion\TestVersion\TestVersion.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\TestVersion.unsuccessfulbuild”执行 Touch 任务。
+       PreBuildEvent:
+         "D:\Program Files\TortoiseSVN\bin\subwcrev.exe" . "D:\我的文档\Visual Studio 2010\Projects\TestVersion\TestVersion\version_template.h" "D:\我的文档\Visual Studio 2010\Projects\TestVersion\TestVersion\ version.h"
+         :VCEnd
+         SubWCRev : E155036: Working copy 'D:\我的文档\Visual Studio 2010\Projects\TestVersion\TestVersion' is too old (format 10, created by Subversion 1.6)
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(103,5): error MSB3073: 命令“"D:\Program Files\TortoiseSVN\bin\subwcrev.exe" . "D:\我的文档\Visual Studio 2010\Projects\TestVersion\TestVersion\version_template.h" "D:\我的文档\Visual Studio 2010\Projects\TestVersion\TestVersion\ version.h"
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(103,5): error MSB3073: :VCEnd”已退出，代码为 6。
+     1>已完成生成项目“D:\我的文档\Visual Studio 2010\Projects\TestVersion\TestVersion\TestVersion.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.14
